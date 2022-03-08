@@ -5,7 +5,7 @@ I'm yash, ML-AI Enthusiast & Freelancer.
 
 - 🎓 Graduated With Major in Computer Science & Engineering
  
-- 🤖 Founder of Out of Box <img src="https://github.com/ll-ysh-ll/ll-ysh-ll/blob/master/oob.png" width="30px">
+- 🤖 Founder of Out of Box <img src="https://github.com/ll-ysh-ll/ll-ysh-ll/blob/master/oob.png" width="50px">
 
 
 ## 🔧 Technologies & Tools
