@@ -23,7 +23,7 @@ I'm yash, ML-AI Enthusiast & Freelancer.
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-## Skills
+## 🎯 Skills
 - 👨‍💻 Data Strucure and Algorithm
 - ⚙️ Machine Learning 
 - 👁️ Computer Vision
