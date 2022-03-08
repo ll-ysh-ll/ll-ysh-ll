@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/ll-ysh-ll/ll-ysh-ll/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/ll-ysh-ll/ll-ysh-ll/blob/master/wave.giff" width="30px">
 I'm yash, ML-AI Enthusiast & Freelancer.
 
 - 🎓 Graduated With Major in Computer Science & Engineering
@@ -26,7 +26,6 @@ I'm yash, ML-AI Enthusiast & Freelancer.
 - 👨‍💻 Data Strucure and Algorithm
 - ⚙️ Machine Learning 
 - 👁️ Computer Vision
-[comment]: <> (- 💽 MySQL, SQL, Mongo)
 
 ##  📫 How to reach me:
 - yashkolekar008@gmail.com
