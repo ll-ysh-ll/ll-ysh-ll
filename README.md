@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="https://github.com/ll-ysh-ll/ll-ysh-ll/blob/master/wave.giff" width="30px">
+# Hello, folks! <img src="https://github.com/ll-ysh-ll/ll-ysh-ll/blob/master/wave.gif" width="30px">
 I'm yash, ML-AI Enthusiast & Freelancer.
 
 - 🎓 Graduated With Major in Computer Science & Engineering
