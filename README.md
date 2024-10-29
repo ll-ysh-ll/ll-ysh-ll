@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ll-ysh-ll/ll-ysh-ll/master/wave.gif" width="30px" height="30px" />
 
-I'm yash, ML-AI Enthusiast & Freelancer.
+I'm Yash, ML-AI Enthusiast & Freelancer.
 
 - 🎓 Graduated With Major in Computer Science & Engineering
  
